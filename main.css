@@ -1,0 +1,82 @@
+body{
+    margin:-25px 0px;
+    padding:0px 0px;
+    }
+
+#main {
+    font-family: system-ui;
+    background: rgb(238, 238, 238);
+    color: #333333;
+    text-align: center;
+    }
+
+#title{
+    margin-bottom:15px;
+
+    }
+
+h1{
+    font-size:40px;
+    margin-top:30px;
+    padding-top:40px;
+
+    }
+
+#img-div{
+    background-color:white;
+    padding:15px;
+    margin:0px 10px;
+
+    }
+
+#image{
+    margin:0px 10px;
+    width:78%;
+    height:90%;
+
+    }
+#img-caption{
+    padding:21px 0px 0px 0px;
+    }
+
+#tribute-info{
+    margin:auto;
+    width:50%;
+    }
+main ul {
+    text-align:left;;
+    }
+
+h3{
+    margin-top:70px;
+    }
+
+main ul li{
+    padding:10px;
+    }
+
+main ul li span{
+    font-weight:bold;
+    }
+
+
+
+footer{
+
+    text-align:left;
+    margin-bottom:60px;
+    }
+
+#end1 {
+    margin:5% 25%;
+
+    font-style:italic;
+    }
+
+#end2{
+
+    text-align:center;
+    font-weight:bold;
+    font-size:19px;
+    }
+
